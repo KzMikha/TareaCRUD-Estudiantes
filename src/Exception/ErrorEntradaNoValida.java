@@ -1,5 +1,9 @@
 package Exception;
 
+/**
+ *
+ * @author Erick
+ */
 
 public class ErrorEntradaNoValida extends Exception{
     public ErrorEntradaNoValida(){

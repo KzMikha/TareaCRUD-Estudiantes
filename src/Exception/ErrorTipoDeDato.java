@@ -1,5 +1,9 @@
 package Exception;
 
+/**
+ *
+ * @author Erick
+ */
 
 public class ErrorTipoDeDato extends NullPointerException {
     public ErrorTipoDeDato(){
